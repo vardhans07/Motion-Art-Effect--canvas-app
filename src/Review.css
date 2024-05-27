@@ -1,0 +1,41 @@
+/* src/Review.css */
+.review {
+    padding: 20px;
+    background-color: #444;
+    color: white;
+    text-align: center;
+    border-radius: 8px;
+    margin: 20px;
+  }
+  
+  .review-score {
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .stars {
+    color: gold;
+    margin: 0 10px;
+  }
+  
+  .review-list {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .review-item {
+    width: 30%;
+    background-color: #333;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  
+  .review-logo {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+  }
+  
