@@ -7,7 +7,7 @@ function Footer({ onBallSizeChange }) {
   return (
     <footer className="footer">
       <div className="footer-p-all">
-      <p>© 2023 Copywrite. All rights reserved by QodeMatrix</p>
+      <p>© 2023 Copywrite. All rights reserved by Rajvardhan Patil</p>
       </div>
       <div className="footer-button-all">
       <button className="footer-button" onClick={onBallSizeChange}>Documentation</button>
